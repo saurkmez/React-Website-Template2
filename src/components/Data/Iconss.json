@@ -1,0 +1,22 @@
+[
+    {
+        "Icon":"fas fa-tachometer-alt fa-5x",
+        "Title":"Lorem Ipsum",
+        "Text":"Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+    },
+    {
+        "Icon":"fas fa-laptop-house fa-5x",
+        "Title":"Lorem Ipsum",
+        "Text":"Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+    },
+    {
+        "Icon":"fas fa-lightbulb fa-5x",
+        "Title":"Lorem Ipsum",
+        "Text":"Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+    },
+    {
+        "Icon":"fas fa-rocket fa-5x",
+        "Title": "Lorem Ipsum",
+        "Text":"Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+    }
+]
