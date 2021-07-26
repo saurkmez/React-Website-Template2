@@ -16,4 +16,4 @@
 
 ## Demo
 
-https://react-website-template1.netlify.app/#/
+https://react-website-template2.netlify.app/#/
